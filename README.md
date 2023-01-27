@@ -3,4 +3,4 @@ This is a Course Repository for Charles Wallis, with Portfolio Projects created 
 
 ### Index:
 
-* [Overview of NLP](https://github.com/charlestw127/CS-4375-Machine-Learning/blob/main/Overview%20of%20ML.pdf)
+* [Overview of NLP](https://github.com/charlestw127/NLP-Portfolio/blob/main/Overview%20of%20NLP.pdf)
