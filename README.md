@@ -10,3 +10,7 @@ This is a Course Repository for Charles Wallis, with Portfolio Projects created 
 * Word Guessing Game using NLTK: [Python Code](https://github.com/charlestw127/NLP-Portfolio/blob/main/word_guessing_game.py)
 
 * WordNet and SentiWordNet: [Notebook](https://github.com/charlestw127/NLP-Portfolio/blob/main/WordNet.ipynb) | [PDF](https://github.com/charlestw127/NLP-Portfolio/blob/main/WordNet.pdf)
+
+* N Gram Language Model
+
+* Parsing Sentences: [PDF](https://github.com/charlestw127/NLP-Portfolio/blob/main/Parsing%20Sentence.pdf)
