@@ -11,6 +11,6 @@ This is a Course Repository for Charles Wallis, with Portfolio Projects created 
 
 * WordNet and SentiWordNet: [Notebook](https://github.com/charlestw127/NLP-Portfolio/blob/main/WordNet.ipynb) | [PDF](https://github.com/charlestw127/NLP-Portfolio/blob/main/WordNet.pdf)
 
-* N Gram & Language Model: [N Gram Dictionary Generation](https://github.com/charlestw127/NLP-Portfolio/blob/main/get_ngrams.py) | [Language Prediction Model](https://github.com/charlestw127/NLP-Portfolio/blob/main/LangPredModel.py) | [Narrative]
+* N Gram & Language Model: [N Gram Dictionary Generation](https://github.com/charlestw127/NLP-Portfolio/blob/main/get_ngrams.py) | [Language Prediction Model](https://github.com/charlestw127/NLP-Portfolio/blob/main/LangPredModel.py) | [Narrative](https://github.com/charlestw127/NLP-Portfolio/blob/main/N%20Gram%20%2B%20Language%20Models.pdf)
 
 * Parsing Sentences: [PDF](https://github.com/charlestw127/NLP-Portfolio/blob/main/Parsing%20Sentence.pdf)
