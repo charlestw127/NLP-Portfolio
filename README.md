@@ -14,3 +14,5 @@ This is a Course Repository for Charles Wallis, with Portfolio Projects created 
 * N Gram & Language Model: [N Gram Dictionary Generation](https://github.com/charlestw127/NLP-Portfolio/blob/main/get_ngrams.py) | [Language Prediction Model](https://github.com/charlestw127/NLP-Portfolio/blob/main/LangPredModel.py) | [Narrative](https://github.com/charlestw127/NLP-Portfolio/blob/main/N%20Gram%20%2B%20Language%20Models.pdf)
 
 * Parsing Sentences: [PDF](https://github.com/charlestw127/NLP-Portfolio/blob/main/Parsing%20Sentence.pdf)
+
+* Finding and Building a Corpus: [Web Crawler](https://github.com/charlestw127/NLP-Portfolio/blob/main/web_crawler.py) | [PDF](https://github.com/charlestw127/NLP-Portfolio/blob/main/Finding%20and%20Building%20a%20Corpus.pdf)
