@@ -16,3 +16,5 @@ This is a Course Repository for Charles Wallis, with Portfolio Projects created 
 * Parsing Sentences: [PDF](https://github.com/charlestw127/NLP-Portfolio/blob/main/Parsing%20Sentence.pdf)
 
 * Finding and Building a Corpus: [Web Crawler](https://github.com/charlestw127/NLP-Portfolio/blob/main/web_crawler.py) | [PDF](https://github.com/charlestw127/NLP-Portfolio/blob/main/Finding%20and%20Building%20a%20Corpus.pdf)
+
+* Text Classification using SKLearn: [Notebook](https://github.com/charlestw127/NLP-Portfolio/blob/main/Text%20Classification.ipynb)
