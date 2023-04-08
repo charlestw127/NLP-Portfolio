@@ -18,3 +18,5 @@ This is a Course Repository for Charles Wallis, with Portfolio Projects created 
 * Finding and Building a Corpus: [Web Crawler](https://github.com/charlestw127/NLP-Portfolio/blob/main/web_crawler.py) | [PDF](https://github.com/charlestw127/NLP-Portfolio/blob/main/Finding%20and%20Building%20a%20Corpus.pdf)
 
 * Text Classification using SKLearn: [Notebook](https://github.com/charlestw127/NLP-Portfolio/blob/main/Text%20Classification.ipynb)
+
+* ACL Paper Summary: [Unsupervised Extractive Opinion Summarization Using Sparse Coding](https://github.com/charlestw127/NLP-Portfolio/blob/main/Unsupervised%20Extractive%20Opinion%20Summarization%20Using%20Sparse%20Coding.pdf)
