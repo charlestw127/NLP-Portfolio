@@ -21,4 +21,4 @@ This is a Course Repository for Charles Wallis, with Portfolio Projects created 
 
 * ACL Paper Summary: [Unsupervised Extractive Opinion Summarization Using Sparse Coding](https://github.com/charlestw127/NLP-Portfolio/blob/main/Unsupervised%20Extractive%20Opinion%20Summarization%20Using%20Sparse%20Coding.pdf)
 
-* Chatbot Project: [Notebook](https://github.com/charlestw127/NLP-Portfolio/blob/main/Chatbot_Project.ipynb) | [PDF](https://github.com/charlestw127/NLP-Portfolio/blob/main/Chatbot%20Project.pdf) | [Python](https://github.com/charlestw127/NLP-Portfolio/blob/main/4395_nlp_chatbot_project.py)
+* Chatbot Project: [Notebook](https://github.com/charlestw127/NLP-Portfolio/blob/main/4395_NLP_Chatbot_Project.ipynb) | [PDF](https://github.com/charlestw127/NLP-Portfolio/blob/main/Chatbot%20Project.pdf) | [Python](https://github.com/charlestw127/NLP-Portfolio/blob/main/4395_nlp_chatbot_project.py)
